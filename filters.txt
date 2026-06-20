@@ -2,6 +2,8 @@
 ! Description: 随缘更新，看到就改
 ! Homepage: https://github.com/Magic-riding/AD-Rules/tree/filters
 ! License: https://github.com/Magic-riding/AD-Rules/blob/filters/LICENSE.txt
+
+! https://www.hacg.casa
 www.hacg.casa##.category-op.category-898.category-comic.category-game.category-uncategorized.category-all.category-age.category-anime.category-896.category-other.hentry.has-post-thumbnail.format-standard.status-publish.type-post.post.post-2958
 www.hacg.casa###metaslider_widget-3
 www.hacg.casa###metaslider_widget-4
@@ -10,3 +12,4 @@ www.hacg.casa###metaslider_widget-12
 www.hacg.casa###metaslider_widget-13
 www.hacg.casa###metaslider_widget-16
 www.hacg.casa###metaslider_widget-17
+www.hacg.casa##.nav-hidden.ml-slider.metaslider-35838.metaslider-flex.metaslider.ml-slider-3-15-3

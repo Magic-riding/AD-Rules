@@ -14,3 +14,6 @@ www.hacg.casa###metaslider_widget-16
 www.hacg.casa###metaslider_widget-17
 www.hacg.casa##.nav-hidden.ml-slider.metaslider-35838.metaslider-flex.metaslider.ml-slider-3-15-3
 www.hacg.casa##.nav-hidden.ml-slider.metaslider-26273.metaslider-flex.metaslider.ml-slider-3-15-3
+
+! https://mikanani.me
+mikanani.me##.central-container > div > .hidden-sm.hidden-xs

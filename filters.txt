@@ -17,3 +17,6 @@ www.hacg.casa##.nav-hidden.ml-slider.metaslider-26273.metaslider-flex.metaslider
 
 ! https://mikanani.me
 mikanani.me##.central-container > div > .hidden-sm.hidden-xs
+
+! https://www.kkce.com
+www.kkce.com##body > div > div > .no-screenshot

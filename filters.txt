@@ -20,3 +20,7 @@ mikanani.me##.central-container > div > .hidden-sm.hidden-xs
 
 ! https://www.kkce.com
 www.kkce.com##body > div > div > .no-screenshot
+
+! https://www.baidu.com
+www.baidu.com###s_wrap
+www.baidu.com##.panel-list_8jHmm

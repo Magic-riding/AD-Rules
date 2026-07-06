@@ -24,3 +24,6 @@ www.kkce.com##body > div > div > .no-screenshot
 ! https://www.baidu.com
 www.baidu.com###s_wrap
 www.baidu.com##.panel-list_8jHmm
+
+! https://www.kkce.com
+www.kkce.com###ad_20

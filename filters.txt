@@ -31,3 +31,7 @@ www.kkce.com###ad_20
 ! https://www.vsping.com
 www.vsping.com##.ad_l
 www.vsping.com##.mians > .no-screenshot
+www.vsping.com###top_ad_content
+www.vsping.com##body > div > .no-screenshot
+www.vsping.com##.no-screenshot
+www.vsping.com##.vip-promo-banner

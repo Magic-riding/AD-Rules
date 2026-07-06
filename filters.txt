@@ -27,3 +27,7 @@ www.baidu.com##.panel-list_8jHmm
 
 ! https://www.kkce.com
 www.kkce.com###ad_20
+
+! https://www.vsping.com
+www.vsping.com##.ad_l
+www.vsping.com##.mians > .no-screenshot

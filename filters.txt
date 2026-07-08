@@ -35,3 +35,7 @@ www.vsping.com###top_ad_content
 www.vsping.com##body > div > .no-screenshot
 www.vsping.com##.no-screenshot
 www.vsping.com##.vip-promo-banner
+www.vsping.com##.index_new06
+
+! https://www.itdog.cn
+www.itdog.cn##div.col-12:nth-of-type(4)

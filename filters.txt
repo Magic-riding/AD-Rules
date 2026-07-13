@@ -24,6 +24,7 @@ mikanani.me##.central-container > div > .hidden-sm.hidden-xs
 
 ! https://www.kkce.com
 www.kkce.com##body > div > div > .no-screenshot
+www.kkce.com##.index_new06
 
 ! https://www.baidu.com
 www.baidu.com###s_wrap

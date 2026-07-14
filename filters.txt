@@ -47,3 +47,6 @@ www.itdog.cn##div.col-12:nth-of-type(4)
 
 ! https://www.wztf121.com
 www.wztf121.com##.right40.yxzj-btn
+
+! https://www.tcptest.cn
+www.tcptest.cn##.space-y-8.mt-6 > div.p-6.shadow-sm.rounded-lg.bg-white

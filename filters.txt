@@ -1,5 +1,5 @@
 ! Title: AD-Rules filters
-! Description: 随缘更新，看到就改
+! Description: 随缘更新，看到就加
 ! Homepage: https://github.com/Magic-riding/AD-Rules/tree/filters
 ! License: https://github.com/Magic-riding/AD-Rules/blob/filters/LICENSE.txt
 

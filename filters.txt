@@ -50,3 +50,6 @@ www.wztf121.com##.right40.yxzj-btn
 
 ! https://www.tcptest.cn
 www.tcptest.cn##.space-y-8.mt-6 > div.p-6.shadow-sm.rounded-lg.bg-white
+
+! https://www.boce.com
+www.boce.com##.pb-24.mt-24.w1200

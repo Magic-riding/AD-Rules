@@ -53,3 +53,4 @@ www.tcptest.cn##.space-y-8.mt-6 > div.p-6.shadow-sm.rounded-lg.bg-white
 
 ! https://www.boce.com
 www.boce.com##.pb-24.mt-24.w1200
+www.boce.com##.mobile-hide.dns_links

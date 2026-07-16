@@ -51,5 +51,6 @@ www.boce.com##.money_right
 www.boce.com##.mobile-hide.dns_links
 www.boce.com##th.noExlTD:nth-of-type(8)
 www.boce.com##td.noExlTD:nth-of-type(8)
+www.boce.com##div.mt-8.contact_right01:nth-of-type(3)
 
 

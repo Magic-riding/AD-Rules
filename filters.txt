@@ -8,37 +8,28 @@
 ||edge.mountaintoys.cn^
 
 ! https://www.hacg.casa
-www.hacg.casa##.category-op.category-898.category-comic.category-game.category-uncategorized.category-all.category-age.category-anime.category-896.category-other.hentry.has-post-thumbnail.format-standard.status-publish.type-post.post.post-2958
-www.hacg.casa###metaslider_widget-3
-www.hacg.casa###metaslider_widget-4
-www.hacg.casa###metaslider_widget-7
-www.hacg.casa###metaslider_widget-12
-www.hacg.casa###metaslider_widget-13
-www.hacg.casa###metaslider_widget-16
-www.hacg.casa###metaslider_widget-17
-www.hacg.casa##.nav-hidden.ml-slider.metaslider-35838.metaslider-flex.metaslider.ml-slider-3-15-3
-www.hacg.casa##.nav-hidden.ml-slider.metaslider-26273.metaslider-flex.metaslider.ml-slider-3-15-3
+www.hacg.casa###post-2958
+www.hacg.casa##.widget_metaslider_widget.widget
+www.hacg.casa###metaslider-id-35838
+www.hacg.casa###metaslider-id-26273
 
 ! https://mikanani.me
-mikanani.me##.central-container > div > .hidden-sm.hidden-xs
+! mikanani.me##.central-container > div > .hidden-sm.hidden-xs
 
 ! https://www.kkce.com
-www.kkce.com##body > div > div > .no-screenshot
-www.kkce.com##.index_new06
-www.kkce.com###ad_20
+www.kkce.com##.no-screenshot
+www.kkce.com##.ad_r
+www.kkce.com###ad_30
 
 ! https://www.baidu.com
-www.baidu.com###s_wrap
+www.baidu.com###s-hotsearch-wrapper
 www.baidu.com##.panel-list_8jHmm
 
 ! https://www.vsping.com
+www.vsping.com##.logo_ad2
+www.vsping.com###ad_20
 www.vsping.com##.ad_l
-www.vsping.com##.mians > .no-screenshot
-www.vsping.com###top_ad_content
-www.vsping.com##body > div > .no-screenshot
-www.vsping.com##.no-screenshot
-www.vsping.com##.vip-promo-banner
-www.vsping.com##.index_new06
+www.vsping.com###ad_30
 www.vsping.com##.sponsor-col
 
 ! https://www.itdog.cn
@@ -49,7 +40,21 @@ www.wztf121.com##.right40.yxzj-btn
 
 ! https://www.tcptest.cn
 www.tcptest.cn##.space-y-8.mt-6 > div.p-6.shadow-sm.rounded-lg.bg-white
+www.tcptest.cn##.mt-8.pt-6.border-gray-200.border-t
+www.tcptest.cn##th.bg-gray-50.border-gray-300.border.whitespace-nowrap.font-medium.text-xs.text-center.py-2.px-2:nth-of-type(11)
+www.tcptest.cn##td.text-center.whitespace-nowrap.border-gray-300.border.text-xs.py-2.px-2:nth-of-type(11)
 
 ! https://www.boce.com
+www.boce.com##.pb-24.mt-24.w1200
+www.boce.com##.mobile-hide.dns_links
 www.boce.com##th.noExlTD:nth-of-type(8)
 www.boce.com##td.noExlTD:nth-of-type(8)
+
+! 2026年7月16日 https://www.vsping.com
+www.vsping.com##.logo_ad2
+www.vsping.com###ad_20
+www.vsping.com##.ad_l
+www.vsping.com###ad_30
+www.vsping.com##.sponsor-col
+
+

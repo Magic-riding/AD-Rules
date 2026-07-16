@@ -25,13 +25,11 @@ mikanani.me##.central-container > div > .hidden-sm.hidden-xs
 ! https://www.kkce.com
 www.kkce.com##body > div > div > .no-screenshot
 www.kkce.com##.index_new06
+www.kkce.com###ad_20
 
 ! https://www.baidu.com
 www.baidu.com###s_wrap
 www.baidu.com##.panel-list_8jHmm
-
-! https://www.kkce.com
-www.kkce.com###ad_20
 
 ! https://www.vsping.com
 www.vsping.com##.ad_l
@@ -41,6 +39,7 @@ www.vsping.com##body > div > .no-screenshot
 www.vsping.com##.no-screenshot
 www.vsping.com##.vip-promo-banner
 www.vsping.com##.index_new06
+www.vsping.com##.sponsor-col
 
 ! https://www.itdog.cn
 www.itdog.cn##div.col-12:nth-of-type(4)
@@ -52,5 +51,5 @@ www.wztf121.com##.right40.yxzj-btn
 www.tcptest.cn##.space-y-8.mt-6 > div.p-6.shadow-sm.rounded-lg.bg-white
 
 ! https://www.boce.com
-www.boce.com##.pb-24.mt-24.w1200
-www.boce.com##.mobile-hide.dns_links
+www.boce.com##th.noExlTD:nth-of-type(8)
+www.boce.com##td.noExlTD:nth-of-type(8)

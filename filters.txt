@@ -52,11 +52,4 @@ www.boce.com##.mobile-hide.dns_links
 www.boce.com##th.noExlTD:nth-of-type(8)
 www.boce.com##td.noExlTD:nth-of-type(8)
 
-! 2026年7月16日 https://www.vsping.com
-www.vsping.com##.logo_ad2
-www.vsping.com###ad_20
-www.vsping.com##.ad_l
-www.vsping.com###ad_30
-www.vsping.com##.sponsor-col
-
 

@@ -45,7 +45,9 @@ www.tcptest.cn##th.bg-gray-50.border-gray-300.border.whitespace-nowrap.font-medi
 www.tcptest.cn##td.text-center.whitespace-nowrap.border-gray-300.border.text-xs.py-2.px-2:nth-of-type(11)
 
 ! https://www.boce.com
-www.boce.com##.pb-24.mt-24.w1200
+www.boce.com##div.money_box
+www.boce.com##.money_left
+www.boce.com##.money_right
 www.boce.com##.mobile-hide.dns_links
 www.boce.com##th.noExlTD:nth-of-type(8)
 www.boce.com##td.noExlTD:nth-of-type(8)

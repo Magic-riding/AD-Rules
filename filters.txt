@@ -35,6 +35,11 @@ www.vsping.com##.sponsor-col
 
 ! https://www.itdog.cn
 www.itdog.cn##div.col-12:nth-of-type(4)
+www.itdog.cn##.gg_link.lantern_right.lantern
+www.itdog.cn##.gg_link.lantern_left.lantern
+www.itdog.cn##div.gg_link.top_pic_ad
+www.itdog.cn##.gg_link.col-12
+www.itdog.cn##.gg_link
 
 ! https://www.wztf121.com
 www.wztf121.com##.right40.yxzj-btn

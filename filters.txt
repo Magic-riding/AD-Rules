@@ -79,5 +79,6 @@ www.83m.cn##section.sm\:mt-4.overflow-hidden.bg-card.rounded.mt-3:nth-of-type(4)
 www.83m.cn##.el-table__cell.\!font-normal.\!bg-primary\/5.text-primary.text-xs.is-leaf.is-center.el-table_2_column_13
 www.83m.cn##.el-table__cell.text-primary.\!text-xs.is-center.el-table_2_column_13
 www.83m.cn##.sm\:px-4.w-\[min\(100\%\,1228px\)\].px-3.mx-auto.rounded.mt-4.ad-placement
+www.83m.cn##.bg-card.rounded.ad-placement
 
 

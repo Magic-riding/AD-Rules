@@ -82,3 +82,10 @@ www.83m.cn##.sm\:px-4.w-\[min\(100\%\,1228px\)\].px-3.mx-auto.rounded.mt-4.ad-pl
 www.83m.cn##.bg-card.rounded.ad-placement
 
 
+! https://www.51cesu.com
+www.51cesu.com##.money_box
+www.51cesu.com##[src]
+www.51cesu.com##.money_right
+www.51cesu.com##.money_left
+
+

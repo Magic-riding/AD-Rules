@@ -88,4 +88,10 @@ www.51cesu.com##[src]
 www.51cesu.com##.money_right
 www.51cesu.com##.money_left
 
+! https://ip.sb
+ip.sb##.rail-right.rail
+ip.sb##.rail-left.rail
+ip.sb##.wwads-slot
+ip.sb###google-anno-sa
+ip.sb##.spotlight
 

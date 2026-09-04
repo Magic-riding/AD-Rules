@@ -95,3 +95,11 @@ ip.sb##.wwads-slot
 ip.sb###google-anno-sa
 ip.sb##.spotlight
 
+! https://blog.csdn.net
+blog.csdn.net##.swiper-slide-box-remuneration
+blog.csdn.net##.csdn-side-toolbar
+blog.csdn.net##.js-aside-cknows.cknows-side-card.aside-box
+blog.csdn.net##.false.passport-login-tip-container
+blog.csdn.net##.csdn-toolbar-fl.toolbar-btn-vip.toolbar-btn
+blog.csdn.net##.csdn-new-user-gift-bubble-anchor
+

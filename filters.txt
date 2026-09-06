@@ -104,3 +104,9 @@ blog.csdn.net##.false.passport-login-tip-container
 blog.csdn.net##.csdn-toolbar-fl.toolbar-btn-vip.toolbar-btn
 blog.csdn.net##.csdn-new-user-gift-bubble-anchor
 
+! https://www.youce.com
+www.youce.com##.gg_link.mb-3.col-12
+www.youce.com##.gg_link.mt-3.col-12
+www.youce.com##.gg_link.col-12
+www.youce.com##.home-filter-ad.gg_link
+www.youce.com##div.col-12:nth-of-type(4)

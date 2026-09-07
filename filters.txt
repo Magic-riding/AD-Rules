@@ -56,6 +56,7 @@ jinghan12.tcptest.cn##button.global-page-action:nth-of-type(2)
 www.tcptest.cn##.home-sponsors
 www.tcptest.cn##button.global-page-action:nth-of-type(2)
 www.tcptest.cn##.header-advertisement.advertisement-banners--header.advertisement-banners
+www.tcptest.cn##.route-result-aside
 
 ! https://www.boce.com
 www.boce.com##div.money_box

@@ -113,3 +113,7 @@ www.youce.com##.gg_link.mt-3.col-12
 www.youce.com##.gg_link.col-12
 www.youce.com##.home-filter-ad.gg_link
 www.youce.com##div.col-12:nth-of-type(4)
+
+! https://www.tcping.cn
+www.tcping.cn##.site-banner-ad
+www.tcping.cn##.is-visible.scroll-reveal.sponsor-section.site-inner

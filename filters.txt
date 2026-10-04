@@ -70,6 +70,8 @@ www.boce.com##td.noExlTD:nth-of-type(8)
 www.boce.com##div.mt-8.contact_right01:nth-of-type(3)
 www.boce.com##th.noExlTD
 www.boce.com##td.noExlTD:nth-of-type(9)
+www.boce.com##td.noExlTD:nth-of-type(6)
+www.boce.com##.pb-24.mt-24.w1200
 
 ! https://www.51dns.com
 www.51dns.com##.mobile-hide.footer_links

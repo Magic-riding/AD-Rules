@@ -119,3 +119,4 @@ www.youce.com##div.col-12:nth-of-type(4)
 ! https://www.tcping.cn
 www.tcping.cn##.site-banner-ad
 www.tcping.cn##.is-visible.scroll-reveal.sponsor-section.site-inner
+www.tcping.cn##div.site-banner-ad

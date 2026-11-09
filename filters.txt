@@ -120,3 +120,9 @@ www.youce.com##div.col-12:nth-of-type(4)
 www.tcping.cn##.site-banner-ad
 www.tcping.cn##.is-visible.scroll-reveal.sponsor-section.site-inner
 www.tcping.cn##div.site-banner-ad
+
+! https://dnspup.com
+dnspup.com##section.tool-ad-grid
+dnspup.com##.tool-content-ad-grid
+dnspup.com##.ad-preview
+dnspup.com##.home-sponsor-panel.card

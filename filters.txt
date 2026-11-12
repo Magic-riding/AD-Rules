@@ -21,6 +21,7 @@ www.kkce.com##.no-screenshot
 www.kkce.com##.ad_r
 www.kkce.com###ad_30
 www.kkce.com##.ads-container
+www.kkce.com##.sponsor-col
 
 ! https://www.baidu.com
 www.baidu.com###s-hotsearch-wrapper

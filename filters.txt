@@ -8,10 +8,10 @@
 ||edge.mountaintoys.cn^
 
 ! https://www.hacg.casa
-www.hacg.casa###post-2958
-www.hacg.casa##.widget_metaslider_widget.widget
-www.hacg.casa###metaslider-id-35838
-www.hacg.casa###metaslider-id-26273
+hacg.*###post-2958
+hacg.*##.widget_metaslider_widget.widget
+hacg.*###metaslider-id-35838
+hacg.*###metaslider-id-26273
 
 ! https://mikanani.me
 ! mikanani.me##.central-container > div > .hidden-sm.hidden-xs

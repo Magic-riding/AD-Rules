@@ -12,6 +12,7 @@ hacg.*###post-2958
 hacg.*##.widget_metaslider_widget.widget
 hacg.*###metaslider-id-35838
 hacg.*###metaslider-id-26273
+hacg.*##[href^="https://item.taobao.com/item.htm"]
 
 ! https://mikanani.me
 ! mikanani.me##.central-container > div > .hidden-sm.hidden-xs
